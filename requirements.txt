@@ -6,3 +6,4 @@ base64
 requests
 gtts
 io.BytesIO
+ffmpeg
