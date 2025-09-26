@@ -4,4 +4,5 @@ langchain
 python-dotenv
 pandas
 numpy
+gtts
 
