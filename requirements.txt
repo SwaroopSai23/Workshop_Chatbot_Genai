@@ -1,9 +1,7 @@
 streamlit
-re 
-math
-json
-base64
-requests
-gtts
-io.BytesIO
-ffmpeg
+openai
+langchain
+python-dotenv
+pandas
+numpy
+
